@@ -25,20 +25,23 @@ export const EXPERIENCES: Experience[] = [
       'Practicing Data Structures and Algorithms regularly.',
       'Participated in hackathons, coding competitions and technical events.'
     ]
-  }
+  },
 
 
 
-  // {
-  //   role: 'Full Stack Intern',
-  //   company: 'DevScale Solutions',
-  //   period: 'May 2024 - Present',
-  //   description: [
-  //     'Optimized backend API performance by 30% using Java multithreading.',
-  //     'Integrated React frontends with complex Spring Boot microservices.',
-  //     'Wrote unit and integration tests achieving 85% code coverage.'
-  //   ]
-  // },
+   {
+  role: 'Artificial Intelligence & Machine Learning Intern',
+  company: 'Edunet Foundation (AICTE & IBM SkillsBuild)',
+  period: 'Jun 2025 - Jul 2025',
+  description: [
+    'Completed a 6-week industry-oriented internship focused on Artificial Intelligence and Machine Learning.',
+    'Worked with Python, NumPy, Pandas, and Matplotlib for data preprocessing, analysis, and visualization.',
+    'Implemented machine learning workflows including data cleaning, feature engineering, model training, and evaluation.',
+    'Developed predictive models using Scikit-Learn and analyzed performance using standard evaluation metrics.',
+    'Gained practical exposure to AI/ML concepts through hands-on projects and guided learning modules.',
+    'Strengthened understanding of data-driven problem solving and machine learning application development.'
+  ]
+}
   // {
   //   role: 'DSA Workshop Lead',
   //   company: 'Coding Club, IT University',
